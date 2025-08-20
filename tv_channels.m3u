@@ -210,10 +210,7 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/12210
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/9561
 #EXTINF:-1 tvg-ID="" tvg-name="|SPO| KSA SPORTS 2 ᴴᴰ" tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="|AR| SPORTS ARABIC",|SPO| KSA SPORTS 2 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/14534
-#EXTINF:-1 tvg-ID="" tvg-name="|SPO| ALRabiaa Sport" tvg-logo="http://138.199.27.237:8080/IRAQ/al rabi3aa.png" group-title="|AR| SPORTS ARABIC",|SPO| ALRabiaa Sport
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/201255
-#EXTINF:-1 tvg-ID="" tvg-name="|SPO| alrabiaa sport" tvg-logo="http://138.199.27.237:8080/IRAQ/al rabi3aa.png" group-title="|AR| SPORTS ARABIC",|SPO| alrabiaa sport
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/249482
+
 #EXTINF:-1 tvg-ID="" tvg-name="|SPO| Bahrain Sport 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BAHRAIN/Bahrain-Sport-1_live.png" group-title="|AR| SPORTS ARABIC",|SPO| Bahrain Sport 1 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156466
 #EXTINF:-1 tvg-ID="" tvg-name="|SPO| Bahrain Sport 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BAHRAIN/Bahrain-Sport-2_live.png" group-title="|AR| SPORTS ARABIC",|SPO| Bahrain Sport 2 ᴴᴰ
@@ -221,8 +218,6 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156467
 
 #EXTINF:-1 tvg-ID="aliraqiyasport.iq" tvg-name="|SPO| Iraqia Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ARABE/ALIRAQIASPORT.png" group-title="|AR| SPORTS ARABIC",|SPO| Iraqia Sport ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156475
-#EXTINF:-1 tvg-ID="jordansports.jo" tvg-name="|SPO| Jordan Sport" tvg-logo="http://138.199.27.237:8080/JORDAN/JORDANSPORT.png" group-title="|AR| SPORTS ARABIC",|SPO| Jordan Sport
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156476
 #EXTINF:-1 tvg-ID="" tvg-name="|SPO| Kuwait Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/KUWAIT/KTVSPORT.png" group-title="|AR| SPORTS ARABIC",|SPO| Kuwait Sport ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156477
 #EXTINF:-1 tvg-ID="" tvg-name="|SPO| Kuwait Sports+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/KUWAIT/KTVSPORT.png" group-title="|AR| SPORTS ARABIC",|SPO| Kuwait Sports+ ᴴᴰ
@@ -231,8 +226,6 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156478
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156479
 #EXTINF:-1 tvg-ID="" tvg-name="|SPO| Libya Sport 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/LIBYA/21.jpg" group-title="|AR| SPORTS ARABIC",|SPO| Libya Sport 2 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156461
-#EXTINF:-1 tvg-ID="" tvg-name="|SPO| Nileen Sport" tvg-logo="http://138.199.27.237:8080/EGYPT/NILE SPORT.png" group-title="|AR| SPORTS ARABIC",|SPO| Nileen Sport
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156481
 #EXTINF:-1 tvg-ID="nilesport.eg" tvg-name="|SPO| Nile Sport" tvg-logo="http://138.199.27.237:8080/EGYPT/NILE SPORT.png" group-title="|AR| SPORTS ARABIC",|SPO| Nile Sport
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156480
 #EXTINF:-1 tvg-ID="" tvg-name="|SPO| Oman Sport TV" tvg-logo="http://138.199.27.237:8080/OMAN/47bc434d89.webp" group-title="|AR| SPORTS ARABIC",|SPO| Oman Sport TV
@@ -241,14 +234,6 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156482
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156483
 #EXTINF:-1 tvg-ID="" tvg-name="|SPO| ON Time Sports 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="|AR| SPORTS ARABIC",|SPO| ON Time Sports 2 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156484
-#EXTINF:-1 tvg-ID="" tvg-name="|SPO| Palestine Sport" tvg-logo="http://138.199.27.237:8080/PALESTINE/PALESTINESPORT.png" group-title="|AR| SPORTS ARABIC",|SPO| Palestine Sport
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156486
-#EXTINF:-1 tvg-ID="" tvg-name="|SPO| SAUDI 24 SPORT ᴴᴰ" tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="|AR| SPORTS ARABIC",|SPO| SAUDI 24 SPORT ᴴᴰ
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156460
-#EXTINF:-1 tvg-ID="" tvg-name="|SPO| Saudia Sport 1 ᴴᴰ" tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="|AR| SPORTS ARABIC",|SPO| Saudia Sport 1 ᴴᴰ
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156487
-#EXTINF:-1 tvg-ID="" tvg-name="|SPO| Saudia Sport 2 ᴴᴰ" tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="|AR| SPORTS ARABIC",|SPO| Saudia Sport 2 ᴴᴰ
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156488
 #EXTINF:-1 tvg-ID="" tvg-name="|SPO| Sharjah Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ASIA/UAE/SHARJAHSPORTHD.png" group-title="|AR| SPORTS ARABIC",|SPO| Sharjah Sport ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/156489
 
