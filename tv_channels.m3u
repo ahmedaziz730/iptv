@@ -9,8 +9,6 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/43
 #EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="beIN Sports Global HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="|AR| BEIN SPORT HD",beIN Sports Global HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/28938
 
-#EXTINF:-1 tvg-ID="beinsports4k.qa" tvg-name="beIN. ULTRA UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" group-title="|AR| BEIN SPORT HD",beIN. ULTRA UHD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/312095
 #EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN Sports 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 1 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1
 #EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 1 ᴴᴰ
@@ -20,122 +18,41 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/534831
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/2
 #EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 2 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/534830
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 2 HD BEE TV
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/108162
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 2 APPEL
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1121790
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 2 Nexus
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1122213
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="|AR| BEIN SPORT HD",BEIN SPORTS 2 TOD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/272467
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports HD 2 SS" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports HD 2 SS
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/624322
 
 #EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 3 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/4
 #EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 3 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/534829
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 HD BEEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 3 HD BEEE TV
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/108164
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 3 APPEL
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1121791
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 3 Nexus
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1122214
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",BEIN SPORTS 3 TOD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/272465
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports HD 3 SS" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports HD 3 SS
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/624323
 
 #EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 4 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/5
 #EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 4 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/534828
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 4 HD BEE TV
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/108165
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 4 APPEL
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1121792
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 4 Nexus
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1122215
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| BEIN SPORT HD",BEIN SPORTS 4 TOD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/272464
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports HD 4 SS" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports HD 4 SS
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/624324
 
 #EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 5 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/6
 #EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 5 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/534827
-#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 5 HD BEE TV
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/108166
-#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 5 APPEL
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1121793
-#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 5 Nexus
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1122216
-#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="|AR| BEIN SPORT HD",BEIN SPORTS 5 TOD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/272463
-#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports HD 5 SS" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports HD 5 SS
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/624325
 
 #EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 6 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/7
 #EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 6 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/534826
-#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 6 HD BEE TV
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/108167
-#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 6 APPEL
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1121794
-#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 6 Nexus
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1122217
-#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="|AR| BEIN SPORT HD",BEIN SPORTS 6 TOD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/272462
-#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports HD 6 SS" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports HD 6 SS
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/624326
 
 #EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 7 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/8
 #EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 7 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/578834
-#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 7 HD BEE TV
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/108168
-#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7 APPEL" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 7 APPEL
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1121795
-#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7 Nexus" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 7 Nexus
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1122218
-#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="|AR| BEIN SPORT HD",BEIN SPORTS 7 TOD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/272461
-#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports HD 7 SS" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports HD 7 SS
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/624327
-
 
 #EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 8 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/9
 #EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8 ᴴᴰ" tvg-logo="" group-title="|AR| BEIN SPORT HD",beIN Sports 8 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/578835
-#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 8 HD BEE TV
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/108169
-#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8 APPEL" tvg-logo="" group-title="|AR| BEIN SPORT HD",beIN Sports 8 APPEL
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1121796
-#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8 Nexus" tvg-logo="" group-title="|AR| BEIN SPORT HD",beIN Sports 8 Nexus
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1122219
-#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="|AR| BEIN SPORT HD",BEIN SPORTS 8 TOD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/272460
-#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports HD 8 SS" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports HD 8 SS
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/624328
 
 #EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 9 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 9 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/10
 #EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN Sports 9 ᴴᴰ" tvg-logo="" group-title="|AR| BEIN SPORT HD",beIN Sports 9 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/578836
-#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN Sports 9 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 9 HD BEE TV
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/108170
-#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN Sports 9 APPEL" tvg-logo="" group-title="|AR| BEIN SPORT HD",beIN Sports 9 APPEL
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1121797
-#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN Sports 9 Nexus" tvg-logo="" group-title="|AR| BEIN SPORT HD",beIN Sports 9 Nexus
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1122220
-#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="|AR| BEIN SPORT HD",BEIN SPORTS 9 TOD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/272459
-#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN Sports HD 9 SS" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports HD 9 SS
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/624329
 
 #EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="|AR| BEIN SPORT HD",beIN Sports XTRA 1 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/117124
@@ -149,8 +66,6 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/117130
 
 #EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="beIN Sports XTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="|AR| BEIN SPORT HD",beIN Sports XTRA 3 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/3
-#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="BEIN SPORTS XSTRA 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="|AR| BEIN SPORT HD",BEIN SPORTS XSTRA 3 TOD
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/272466
 #EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="beIN Sports XSTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="|AR| BEIN SPORT HD",beIN Sports XSTRA 3 HD
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/108163
 
@@ -177,21 +92,16 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/10369
 #EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="beIN Sport English HD 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="|AR| BEIN SPORT HD",beIN Sport English HD 2
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1269967
 
-#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 1ᴴᴰ (ser1)
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 1ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/146122
-
-#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 1 ᴴᴰ (ser2)
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 1 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1063488
-
-#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="beIN Sports MAX 2ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 2ᴴᴰ(ser1)
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="beIN Sports MAX 2ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 2ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/146123
-
-#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="beIN Sports MAX 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 2 ᴴᴰ(ser2)
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="beIN Sports MAX 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 2 ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/1063489
-
 #EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="beIN Sports MAX 3 ENᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 3 ENᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/146124
-
 #EXTINF:-1 tvg-ID="beinsportsmax4.qa" tvg-name="beIN Sports MAX 4 FRᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png" group-title="|AR| BEIN SPORT MAX",beIN Sports MAX 4 FRᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/146125
 
@@ -833,8 +743,7 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/303715
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/303716
 #EXTINF:-1 tvg-ID="really.uk" tvg-name="UK| REALLY" tvg-logo="http://138.199.27.237:8080/UK/REALLY.png" group-title="|UK| DISCOVERY+",UK| REALLY
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/303717
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOVE NATURE ᵁᴴᴰ" tvg-logo="" group-title="|UK|  DOCUMENTARY",|UK| LOVE NATURE ᵁᴴᴰ
-http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/264338
+
 #EXTINF:-1 tvg-ID="discoverydmax.uk" tvg-name="|UK| D MAX ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/DMAX.jpg" group-title="|UK|  DOCUMENTARY",|UK| D MAX ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/91625
 #EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="|UK| DISCOVERY ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/DISCOVERYHD.png" group-title="|UK|  DOCUMENTARY",|UK| DISCOVERY ᵁᴴᴰ
@@ -867,4 +776,3 @@ http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/309468
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/309469
 #EXTINF:-1 tvg-ID="" tvg-name="|UK| TLC ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/TLC.png" group-title="|UK|  DOCUMENTARY",|UK| TLC ᴴᴰ
 http://eagle2024.xyz:80/mjd24_141990/8yEtPc10/309470
-
